@@ -1,7 +1,22 @@
-# readme_template
+# Readme Template
+![Logo](https://github.com/wilfriedaugeard/readme_template/blob/master/logo.png)
+
 A simple readme template for my future projects. 
 
-> Note: All numbers used in this file are fake.
+> Note: Not all data used relates to this file, these are just a few examples.
+
+## Table of contents
+- [Badges](#badges)
+- [Goal](#goal)
+- [Installation](#installation)
+  - [Clone](#clone)
+  - [Prerequisites](#prerequisites)
+- [Project structure](#project-structure)
+- [Features](#features)
+- [Usage](#usage)
+  - [Example](#example)
+- [License](#license)
+
 
 ## Badges
 Info | Badges
@@ -14,6 +29,72 @@ Issues | [![Issues](https://badgen.net/github/issues/micromatch/micromatch)](htt
 Release | [![Releases](https://badgen.net/github/releases/micromatch/micromatch)](https://badgen.net/github/releases/micromatch/micromatch)
 
 
+## Goal
+Place here the goal of your project.
+
+## Installation
+### Clone
+Clone this repository to your local machine if you want to access the code.
+
+```sh
+git clone https://github.com/yourname/repo/
+```
+
+### Prerequisites
+(Example)
+First you'll need to install Python3 (version >= 3.6). To install Python : 
+
+```bash
+sudo apt-get install python3
+```
+
+To check the version :
+
+```bash
+python3 --version
+```
+
+Then, you'll need to install pip:
+
+```bash
+curl https://bootstrap.pypa.io/get-pip.py | python
+```
+
+With pip, you'll need to install two dependencies :
+
+```bash
+pip install --upgrade setuptools
+pip install --upgrade numpy
+```
+
+## Project structure
+
+```sh
+  src/
+    assets/
+    env/
+```
+Describe the structure of the project.
+
+## Features
+Add here main project features.
+
+## Usage
+Explain here how to use your project.
+
+### Example
+```python
+  def myDemo():
+    print("you can add code")
+  
+  myDemo()
+```
+
+## ToDo
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 ## License
 
