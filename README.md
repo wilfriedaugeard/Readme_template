@@ -96,12 +96,18 @@ Explain here how to use your project.
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-## License
+## Contributing
+### To contribute
+Add a file with rules to contribute.
 
-Distributed under the MIT [License](https://github.com/wilfriedaugeard/readme_template/blob/master/LICENSE)
-
+### Contributors
 <a href="https://github.com/wilfriedaugeard/readme_template/graphs/contributors">
   <img src="https://contributors-img.firebaseapp.com/image?repo=wilfriedaugeard/readme_template" />
 </a>
 
 Made with [contributors-img](https://contributors-img.firebaseapp.com).
+
+
+## License
+
+Distributed under the MIT [License](https://github.com/wilfriedaugeard/readme_template/blob/master/LICENSE).
